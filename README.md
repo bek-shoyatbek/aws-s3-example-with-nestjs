@@ -1,6 +1,6 @@
-## Qanday qilib S3 va cloudfront ni sozlash va maxfiy kalitlarni olish mumkun.
+## [Qanday qilib S3 va cloudfront ni sozlash va maxfiy kalitlarni olish mumkun.](https://youtu.be/9TkPLQRC-FI)
 
-<video  src="https://youtu.be/9TkPLQRC-FI" width="100%" height="70%" controls autoplay />
+![video](https://youtu.be/9TkPLQRC-FI)
 
 ## npm larni o'rnatish
 
