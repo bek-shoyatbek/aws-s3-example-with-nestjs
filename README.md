@@ -1,6 +1,6 @@
 ## Qanday qilib S3 va cloudfront ni sozlash va maxfiy kalitlarni olish mumkun.
 
-<video width="100%" height="70%" controls>
+<video width="100%" height="70%" controls autoplay>
   <source src="https://youtu.be/9TkPLQRC-FI" type="video/mp4">
 </video>
 
