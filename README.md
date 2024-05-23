@@ -1,6 +1,5 @@
 ## [Qanday qilib S3 va cloudfront ni sozlash va maxfiy kalitlarni olish mumkun.](https://youtu.be/9TkPLQRC-FI)
 
-![video](https://youtu.be/9TkPLQRC-FI)
 
 ## npm larni o'rnatish
 
